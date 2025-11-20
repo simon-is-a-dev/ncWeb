@@ -47,7 +47,7 @@ const SwiperSlider = forwardRef(
             >
                 <Swiper {...sliderOptions}>{children}</Swiper>
 
-                {/* {sliderOptions?.navigation && (
+                {sliderOptions?.navigation && (
                     <>
                         <button
                             type="button"
@@ -62,7 +62,7 @@ const SwiperSlider = forwardRef(
                             <i className="ion-ios-arrow-left" />
                         </button>
                     </>
-                )} */}
+                )}
             </div>
         );
     }
