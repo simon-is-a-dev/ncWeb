@@ -28,11 +28,10 @@ class HeroSliderOne extends Component {
               <div className="col-lg-12">
                 <div className="hero-slider__content">
                   <h2 className="hero-slider__title">
-                    Transforming patient care through software solutions
+                  Revolutionizing Patient Care with Smart Software
                   </h2>
                   <p className="hero-slider__text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                    do eiusm tempor incididunt ut labore et dolore.
+                    Harnessing the power of innovative software, we streamline patient management, enhance clinical workflows, and improve outcomes. Our solutions empower healthcare providers to deliver faster, more personalized care while giving patients a seamless, connected experience.
                   </p>
                   <a
                     className="hero-slider__btn"
